@@ -1,5 +1,7 @@
 # Provider Agnostic Scalable Server Environment Setup
 
+> Unfortunately I couldn't find time to complete this walkthrough. But it still can be valuable.
+
 What a long name. 😵
 
 This documentation is for creating scalable server environment. The main goal is not using anything provider-specific such as managed services etc. Reason of this is to stay provider agnostic and cheap. This may not be best for production but good for learning. 👍🏿
